@@ -1,0 +1,41 @@
+_repo: Man-kann-nie-wissen--Kom-die-in-vier-Akten_9810
+_version: 0.0.1
+alternative_title: You never can tell. German
+contributor:
+  translator:
+    agent_name: Trebitsch, Siegfried
+    birthdate: 1869
+    deathdate: 1956
+    gutenberg_agent_id: '3075'
+    url: http://www.gutenberg.org/2009/agents/3075
+    wikipedia: http://de.wikipedia.org/wiki/Siegfried_Trebitsch
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    alias: Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9810'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Comedies'
+- !lcsh 'England -- Drama'
+- !lcsh 'Wives -- Drama'
+- !lcsh 'Children -- Drama'
+- !lcsh 'Fathers -- Drama'
+- !lcsh 'Runaway husbands -- Drama'
+- GITenberg
+title: 'Man kann nie wissen: Komödie in vier Akten'
+url: http://www.gutenberg.org/ebooks/9810
