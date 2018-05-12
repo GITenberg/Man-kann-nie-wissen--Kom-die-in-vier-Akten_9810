@@ -1,5 +1,5 @@
 _repo: Man-kann-nie-wissen--Kom-die-in-vier-Akten_9810
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: You never can tell. German
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3075'
     url: http://www.gutenberg.org/2009/agents/3075
     wikipedia: http://de.wikipedia.org/wiki/Siegfried_Trebitsch
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaw, Bernard
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/467
     wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9810#Man-kann-nie-wissen--Kom-die-in-vier-Akten
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
